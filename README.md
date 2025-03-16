@@ -8,6 +8,9 @@ Project Aplikasi rumah makan sederhana menggunakan VueJs dan JSON Placeholder
 ### Tampilan order
 ![image alt](https://github.com/Rizkapribadi/ata-tanyoe-webbased/blob/2b5283bb18bee57473f4741f0328f422ff18a5c0/12.JPG)
 
+### Keranjang Saya
+![image alt](https://github.com/Rizkapribadi/ata-tanyoe-webbased/blob/06a1cfbe654359921a90765b51d6f4a8b974d4fc/13.JPG)
+
 ## Project setup
 ```
 npm install
