@@ -1,11 +1,8 @@
 # kuliner
 Project Aplikasi rumah makan sederhana menggunakan VueJs dan JSON Placeholder
 ![alt text](https://user-images.githubusercontent.com/15280789/150911818-0cee36db-0495-445b-8eec-38ca13ee67d2.JPG)
-
-### Tampilan Home
-
 ### Daftar Menu Makanan
-
+![image alt](https://github.com/Rizkapribadi/ata-tanyoe-webbased/blob/30ac757f7828cd3b8df6007bf539afdf76bcd6ef/011.JPG)
 ### Tampilan order
 
 
