@@ -1,4 +1,4 @@
-# kuliner
+# Ata Tanyoe
 Project Aplikasi rumah makan sederhana menggunakan VueJs dan JSON Placeholder
 ![alt text](https://user-images.githubusercontent.com/15280789/150911818-0cee36db-0495-445b-8eec-38ca13ee67d2.JPG)
 
